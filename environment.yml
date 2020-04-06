@@ -1,0 +1,47 @@
+name: mlcourse
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - numpy=1.18.1
+  - numpy-base=1.18.1
+  - openssl=1.1.1
+  - pandas=1.0.3
+  - pandoc=2.2.3.2
+  - pandocfilters=1.4.2
+  - parso=0.6.2
+  - pickleshare=0.7.5
+  - pip=20.0.2
+  - prometheus_client=0.7.1
+  - prompt-toolkit=3.0.4
+  - prompt_toolkit=3.0.4
+  - pygments=2.6.1
+  - pyparsing=2.4.6
+  - pyqt=5.9.2
+  - pyrsistent=0.15.7
+  - python=3.7.7
+  - python-dateutil=2.8.1
+  - pytz=2019.3
+  - pyzmq=18.1.1
+  - qt=5.9.7
+  - qtconsole=4.7.2
+  - qtpy=1.9.0
+  - scikit-learn=0.22.1
+  - scipy=1.4.1
+  - seaborn=0.10.0
+  - send2trash=1.5.0
+  - setuptools=46.1.1
+  - sip=4.19.13
+  - six=1.14.0
+  - sqlite=3.31.1
+  - terminado=0.8.3
+  - testpath=0.4.4
+  - tornado=6.0.4
+  - traitlets=4.3.3
+  - wcwidth=0.1.8
+  - webencodings=0.5.1
+  - wheel=0.34.2
+  - widgetsnbextension=3.5.1
+  - zeromq=4.3.1
+  - zipp=2.2.0
+  - zlib=1.2.11
